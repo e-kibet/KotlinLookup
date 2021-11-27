@@ -1,0 +1,4 @@
+package basicconcepts
+
+class Lazy {
+}
